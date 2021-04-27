@@ -5,4 +5,3 @@ if __name__ == '__main__':
         if ch.isdigit():
             count = count + int(ch)
     print(count)
-5
